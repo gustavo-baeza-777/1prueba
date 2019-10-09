@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  font-family: 'Roboto', sans-serif;
+}
+
+.gustavo {
+  font-family: 'Lobster', cursive;
+
+}
+
+.linea {
+    border-bottom: 2px solid black;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+  background-color: #660066;
+}
+
+.ultimo {
+  color: #ffffff;
+}
