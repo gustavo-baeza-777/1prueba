@@ -32,7 +32,9 @@ footer {
   color: #ffffff;
 }
 
-
+i {
+  margin: 10px;
+}
 
 
   .carousel-indicators {
